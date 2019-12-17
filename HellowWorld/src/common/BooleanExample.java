@@ -5,7 +5,7 @@ public class BooleanExample {
 		boolean trueOrFalse = true; //true
 		int var1 = 10;
 		trueOrFalse = var1 >15;
-		
+	
 		for (int i = 0; i<0 ; i++) {
 			
 			trueOrFalse = var1++ >15;
@@ -14,5 +14,7 @@ public class BooleanExample {
 			else
 				System.out.println(var1 + "=>거짓");
 		}
+	System.out.println("end of program");
 	}
+	
 }

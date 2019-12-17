@@ -3,7 +3,7 @@ package common;
 public class BooleanForExample {
 	public static void main(String[] args) {
 		int var1 = 76;
-		
+	
 		
 		if (var1>90) {
 			if(var1>95)
